@@ -79,7 +79,7 @@
 
 ## 📈 Stats & Activity
 
-![Profile views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/BrouZie&count_bg=%23000000&title_bg=%23000000&icon=&icon_color=%23FFFFFF&title=views&edge_flat=true)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=BrouZie.BrouZie)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=BrouZie&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent">
