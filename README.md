@@ -3,7 +3,6 @@
 > Applied robotics student aspiring to become *cracked*.
 
 * 🎓 **M.Sc. in Applied Robotics (Anvendt robotikk), NMBU (Expected 2028)**
-* 🔎 **Open to:** internships & collaborations
 * 💬 **Email:** [sokrates.kjoelner@gmail.com](mailto:sokrates.kjoelner@gmail.com)
 
 ---
@@ -15,7 +14,7 @@
 ### 🧰 Skills (now)
 
 * **Languages:** Python, Bash
-* **Tools:** Linux (Arch), Git, Docker, Neovim, tmux, Hyprland ecosystem (Waybar, Rofi, swaync), Kitty, Zsh
+* **Tools:** Linux (Arch), Git, Docker, Neovim, tmux, Hyprland ecosystem
 
 #### Badges
 
@@ -31,8 +30,6 @@
 ### 📚 Learning next
 
 * **C/C++**, **ROS 2**, **Go**
-
-> *I don’t list tools I haven’t really used yet. k8s is intentionally omitted.*
 
 ---
 
@@ -80,14 +77,9 @@
 
 ---
 
-### Extras
-
-* **Dotfiles (stow-ready)** — kept separate; most configs also live in the flagship installer.
-  **Repo:** ➜ *Add link here (optional)*
-
----
-
 ## 📈 Stats & Activity
+
+![Profile views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/BrouZie&count_bg=%23000000&title_bg=%23000000&icon=&icon_color=%23FFFFFF&title=views&edge_flat=true)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=BrouZie&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent">
@@ -104,22 +96,10 @@
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrouZie&layout=compact&hide_border=true" />
 </picture>
 
-> 🔒 Visitor counters are intentionally disabled.
-
----
-
-## 🧭 Values & vibe
-
-* I like technology, automation, and workflow optimization.
-* Minimal config, maximal leverage.
-
 ---
 
 ## 📬 Contact
 
 * **Email:** [sokrates.kjoelner@gmail.com](mailto:sokrates.kjoelner@gmail.com)
-* **Profile:** [https://github.com/BrouZie](https://github.com/BrouZie)
 
 ---
-
-> *Tip:* Put this README in a repo named **`BrouZie/BrouZie`** to show it on your profile.
