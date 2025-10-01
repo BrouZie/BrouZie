@@ -35,8 +35,6 @@
 
 ## 🧪 Projects
 
-> I keep this list short; see pinned repos for quick access.
-
 ### 1) Arch + Hyprland Auto-Setup *(flagship)*
 
 **What:** One script installs and configures my full Hyprland desktop (Waybar, Neovim, tmux, Rofi-wayland, swaync, Kitty), plus handy scripts (theme switcher, screen recorder, focus mode, screenshots) wired into Hyprland binds.
